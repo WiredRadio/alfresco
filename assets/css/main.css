@@ -1,0 +1,50 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#banner{
+    height: 250px;
+	background:url("../img/spaceship.jpg");
+	background-size: 100%;
+	background-position:center; 
+    background-repeat: none;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+p{
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+.jumbotron h1,h1,h2,h3,h4,h5,.navbar-brand{
+    font-family: 'Futura', 'Montserrat';
+    color: #fff;
+}
+.goldsmiths{
+    font-family: 'Montserrat';
+    color: #ffd100;
+}
+h1,h2,h3,h4,h5,.navbar-brand{
+    text-transform: uppercase;
+}
+
+.poster img{
+    max-width: 100%;
+    padding: 10px;
+}
+
+.alfrescoText{
+    padding: 50px 20% 50px 20%;
+    font-size: 20px;
+}
+
+.share{
+	font-size:25px;
+	margin-right: 8px;
+}
+
+.fa-black{
+	color:black;
+}
